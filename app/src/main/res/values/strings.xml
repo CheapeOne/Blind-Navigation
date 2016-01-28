@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BlindNav</string>
+
+    <string name="dummy_button">Blind Navigation</string>
+    <string name="dummy_content">
+
+        Swipe Up/Down to Select\n\n
+        Double-Tap to Confirm \n\n
+        Long Press to Undo
+
+
+    </string>
+</resources>
